@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/farm2people-web-app/static/css/main.31503a04.chunk.css",
-    "main.js": "/farm2people-web-app/static/js/main.c99ee1e6.chunk.js",
-    "main.js.map": "/farm2people-web-app/static/js/main.c99ee1e6.chunk.js.map",
-    "runtime-main.js": "/farm2people-web-app/static/js/runtime-main.826a8b0b.js",
-    "runtime-main.js.map": "/farm2people-web-app/static/js/runtime-main.826a8b0b.js.map",
-    "static/js/2.b16da791.chunk.js": "/farm2people-web-app/static/js/2.b16da791.chunk.js",
-    "static/js/2.b16da791.chunk.js.map": "/farm2people-web-app/static/js/2.b16da791.chunk.js.map",
+    "main.css": "/farm2people-web-app/static/css/main.ab0f9ade.chunk.css",
+    "main.js": "/farm2people-web-app/static/js/main.6530a734.chunk.js",
+    "main.js.map": "/farm2people-web-app/static/js/main.6530a734.chunk.js.map",
+    "runtime-main.js": "/farm2people-web-app/static/js/runtime-main.f0135934.js",
+    "runtime-main.js.map": "/farm2people-web-app/static/js/runtime-main.f0135934.js.map",
+    "static/js/2.dc11c90d.chunk.js": "/farm2people-web-app/static/js/2.dc11c90d.chunk.js",
+    "static/js/2.dc11c90d.chunk.js.map": "/farm2people-web-app/static/js/2.dc11c90d.chunk.js.map",
     "index.html": "/farm2people-web-app/index.html",
-    "static/css/main.31503a04.chunk.css.map": "/farm2people-web-app/static/css/main.31503a04.chunk.css.map",
-    "static/js/2.b16da791.chunk.js.LICENSE.txt": "/farm2people-web-app/static/js/2.b16da791.chunk.js.LICENSE.txt",
+    "static/css/main.ab0f9ade.chunk.css.map": "/farm2people-web-app/static/css/main.ab0f9ade.chunk.css.map",
+    "static/js/2.dc11c90d.chunk.js.LICENSE.txt": "/farm2people-web-app/static/js/2.dc11c90d.chunk.js.LICENSE.txt",
     "static/media/Asset1.d2b32ac3.svg": "/farm2people-web-app/static/media/Asset1.d2b32ac3.svg",
     "static/media/Asset2.a85bdc3a.svg": "/farm2people-web-app/static/media/Asset2.a85bdc3a.svg",
     "static/media/BlueprintLogo.142520a2.svg": "/farm2people-web-app/static/media/BlueprintLogo.142520a2.svg",
@@ -48,9 +48,9 @@
     "static/media/sign-in-fruit.070e8adb.svg": "/farm2people-web-app/static/media/sign-in-fruit.070e8adb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.826a8b0b.js",
-    "static/js/2.b16da791.chunk.js",
-    "static/css/main.31503a04.chunk.css",
-    "static/js/main.c99ee1e6.chunk.js"
+    "static/js/runtime-main.f0135934.js",
+    "static/js/2.dc11c90d.chunk.js",
+    "static/css/main.ab0f9ade.chunk.css",
+    "static/js/main.6530a734.chunk.js"
   ]
 }
